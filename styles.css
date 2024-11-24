@@ -1,0 +1,127 @@
+h2{
+    color:white;
+    text-align: center;
+    font-size:large;
+}
+h3{
+    font-size:medium;
+    color:green;
+    text-align: center;
+}
+body{
+    background-color: black;
+
+}
+img{
+   display:block;
+   margin:0 auto;
+border-radius:50%}
+.u{
+    font-size: small;
+    color: white;
+    text-align: center;
+}
+.A{
+    color:white;
+    background-color:rgb(87, 85, 85);
+    width:70%;
+ padding: 20px;
+display: block;
+margin: auto;
+text-align: center;
+border-radius:5px;
+justify-content: center;
+transition:0.7s;
+cursor: pointer;
+border-radius:20px;
+
+}
+.b{
+    color:white;
+    background-color:rgb(87, 85, 85);
+    width:70%;
+    padding: 20px;
+   display: block;
+   margin: auto;
+   text-align: center;
+   border-radius:5px;
+   justify-content: center;
+   transition:0.7s;
+   border-radius:20px;
+   }
+.c{
+    color:white;
+    background-color:rgb(87, 85, 85);
+    width:70%;
+    padding: 20px;
+   display: block;
+   margin: auto;
+   text-align: center;
+   border-radius:5px;
+   justify-content: center;
+   transition:0.7s;
+   border-radius:20px;
+   }
+.d{
+    color:white;
+    background-color:rgb(87, 85, 85);
+    width:70%;
+    padding: 20px;
+   display: block;
+   margin: auto;
+   text-align: center;
+   border-radius:5px;
+   justify-content: center;
+   transition:0.7s;
+   border-radius:20px;
+   }
+.e{
+    color:white;
+    background-color:rgb(87, 85, 85); 
+    width:70%;
+    padding: 20px;
+   display:flex;
+   margin: auto;
+   text-align: center;
+   border-radius:5px;
+   justify-content: center;
+   transition:0.7s;
+   border-radius:20px;
+   }
+  
+.A:hover{
+    background-color:rgb(150, 142, 142);
+    color:rgb(0, 0, 0);
+   
+}
+.b:hover{
+    background-color:rgb(150, 142, 142);
+    color:rgb(0, 0, 0);
+   
+}
+.c:hover{
+    background-color:rgb(150, 142, 142);
+    color:rgb(0, 0, 0);
+}
+.d:hover{
+    background-color:rgb(150, 142, 142);
+    color:rgb(0, 0, 0);
+   
+}
+.e:hover{
+    background-color:rgb(150, 142, 142);
+    color:rgb(241, 233, 233);
+   
+}
+a{
+    text-decoration:none;
+    color:aliceblue;
+    cursor:pointer;
+}
+.container{
+    background-color:rgb(37, 35, 35);
+    padding:20px;
+    width:80%;
+    margin:40px auto;}
+
+
